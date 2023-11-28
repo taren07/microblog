@@ -11,7 +11,7 @@ const Header = () => {
 						href="/articles/new"
 						className="bg-orange-300 px-3 py-3 rounded-md"
 					>
-						create
+						New Post
 					</Link>
 				</nav>
 			</div>
